@@ -96,7 +96,7 @@
     nekoEl.style.top = `${nekoPosY - 16}px`;
     nekoEl.style.zIndex = 2147483647;
 
-    let nekoFile = "https://github.com/yKluvMina/mes-custom-onekozz/blob/main/oneko%20(1).gif?raw=true"
+    let nekoFile = "https://github.com/yKluvMina/ROSE-EN-AMONT/blob/main/oneko.gif?raw=true"
     const curScript = document.currentScript
     if (curScript && curScript.dataset.cat) {
       nekoFile = curScript.dataset.cat
